@@ -80,10 +80,3 @@ The accuracy of each model is as follows:
 
 ✅ **SVM (Support Vector Classifier)** achieved the highest accuracy of **93.40%**.  
 It is the best-fitted model among all tested based on accuracy.
-
----
-
-## ✨ Author
-
-**Neela Kumar Raju**  
-Data Science Learner | Python & ML Enthusiast
